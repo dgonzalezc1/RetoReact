@@ -1,0 +1,32 @@
+[
+  {
+    "id": "email",
+    "name": "email",
+    "field": "text",
+    "label": "Email",
+    "type": "email",
+    "placeholder": "Ingresa tu Email",
+    "required": true,
+    "ref": null
+  },
+  {
+    "id": "password",
+    "name": "password",
+    "field": "text",
+    "label": "Contraseña",
+    "type": "password",
+    "placeholder": "Ingresa una contraseña",
+    "required": true,
+    "ref": null
+  },
+  {
+    "id": "repeat_password",
+    "name": "repeat_password",
+    "field": "text",
+    "label": "Repita Contraseña",
+    "type": "password",
+    "placeholder": "Vuelve a ingresar la contraseña",
+    "required": true,
+    "ref": null
+  }
+]
